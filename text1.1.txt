@@ -21,3 +21,4 @@ public class IfElese {
 	}
 
 }
+system.out.println()
